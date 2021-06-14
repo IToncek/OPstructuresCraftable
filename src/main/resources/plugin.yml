@@ -1,0 +1,8 @@
+name: StructuresCraftable
+version: ${project.version}
+main: me.swipez.structurescraftable.StructuresCraftable
+api-version: 1.16
+authors: [ notnotnotswipez ]
+commands:
+  giveallstructures:
+    usage: §c/giveallstructures
